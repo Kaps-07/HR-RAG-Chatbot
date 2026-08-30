@@ -4,15 +4,15 @@ authentication.py - User registration and login for HR Assistant.
 MongoDB stores user documents with fields: email, password (hashed), role.
 Passwords are hashed with bcrypt via passlib — never stored as plain text.
 """
-
+import os
 from pymongo import MongoClient
 from passlib.context import CryptContext
 
 # ---------------------------------------------------------------------------
 # MongoDB connection  (same config as before)
 # ---------------------------------------------------------------------------
+MONGO_URL = os.environ.get("MONGO_CLIENT")
 
-MONGO_URL = "mongodb://localhost:27017"
 db_name = "hr_assistant"
 user_collection_name = "collection_user"
 
@@ -20,11 +20,6 @@ client = MongoClient(MONGO_URL)
 db = client[db_name]
 user_collection = db[user_collection_name]
 
-try:
-    client.admin.command("ping")
-    print("MongoDB connected successfully")
-except Exception as e:
-    print("MongoDB connection failed:", e)
 
 # ---------------------------------------------------------------------------
 # Password hashing  (bcrypt)
