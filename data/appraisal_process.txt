@@ -1,0 +1,66 @@
+Appraisal Process
+
+1. Overview
+The company follows an annual performance appraisal process to evaluate employee performance, recognize achievements, and identify areas for development. The appraisal process is transparent, fair, and aligned with the company's strategic goals.
+
+2. Appraisal Cycle
+The appraisal cycle runs from April 1st to March 31st of the following year. The appraisal process is conducted in April every year. Mid-year check-ins are conducted in October to review progress and provide feedback.
+
+3. Appraisal Process Steps
+
+3.1 Goal Setting
+At the beginning of the appraisal cycle (April), employees and their managers collaboratively set SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals. Goals are documented on the HRMS portal and must be finalized by April 30th.
+
+3.2 Mid-Year Review
+In October, employees and managers conduct a mid-year review to assess progress against goals. The mid-year review is an opportunity to recalibrate goals if business priorities have changed. Feedback from the mid-year review is documented on the HRMS portal.
+
+3.3 Self-Evaluation
+In March, employees complete a self-evaluation on the HRMS portal. The self-evaluation includes an assessment of goal achievement, key accomplishments, areas for improvement, and career development aspirations. Self-evaluations must be submitted by March 15th.
+
+3.4 Manager Review
+After the self-evaluation, the reporting manager reviews the employee's performance and provides ratings and feedback. The manager review must be completed by March 31st. Managers are expected to provide specific, constructive, and balanced feedback.
+
+3.5 HR Calibration
+HR conducts a calibration session with all department heads to ensure consistency and fairness in ratings across the organization. The calibration session is held in the first week of April. Final ratings are determined after the calibration session.
+
+3.6 Appraisal Discussion
+After calibration, managers conduct a one-on-one appraisal discussion with each team member to share the final rating and feedback. The appraisal discussion must be completed by April 15th. Employees can raise concerns about their rating to HR within 7 days of the appraisal discussion.
+
+4. Rating Scale
+The company uses a 5-point rating scale:
+
+Rating 5 - Outstanding: Consistently exceeds all goals and expectations. Demonstrates exceptional performance and leadership.
+Rating 4 - Exceeds Expectations: Exceeds most goals and expectations. Demonstrates strong performance.
+Rating 3 - Meets Expectations: Meets all goals and expectations. Demonstrates solid performance.
+Rating 2 - Needs Improvement: Partially meets goals and expectations. Requires improvement in key areas.
+Rating 1 - Unsatisfactory: Does not meet goals and expectations. Immediate improvement required.
+
+5. Impact of Appraisal Rating
+
+5.1 Salary Increment
+Increment percentages are linked to appraisal ratings as follows:
+Rating 5: 15% - 20% increment
+Rating 4: 10% - 15% increment
+Rating 3: 5% - 10% increment
+Rating 2: 0% - 5% increment
+Rating 1: No increment
+
+5.2 Performance Bonus
+Bonus percentages are linked to appraisal ratings as follows:
+Rating 5: 20% of annual CTC
+Rating 4: 15% of annual CTC
+Rating 3: 10% of annual CTC
+Rating 2: 5% of annual CTC
+Rating 1: No bonus
+
+5.3 Promotions
+Promotions are considered for employees with a rating of 4 or above for two consecutive years. Promotions are subject to availability of positions and business requirements.
+
+6. Performance Improvement Plan (PIP)
+Employees with a rating of 1 or 2 may be placed on a Performance Improvement Plan (PIP). The PIP outlines specific improvement goals, timelines, and support mechanisms. The PIP period is typically 90 days. Failure to meet PIP goals may result in termination of employment.
+
+7. Appeals Process
+Employees who disagree with their appraisal rating can raise a formal appeal with HR within 7 days of the appraisal discussion. HR will review the appeal and provide a resolution within 15 working days. The decision of HR is final.
+
+8. Contact
+For appraisal-related queries, contact the HR department at hr@company.com or raise a ticket on the HR portal.
