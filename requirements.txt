@@ -1,0 +1,31 @@
+# Web framework
+fastapi==0.115.6
+uvicorn[standard]==0.52.4
+starlette==0.41.3
+
+# Templates & forms
+jinja2==3.1.6
+python-multipart==0.0.32
+
+# Environment variables
+python-dotenv==1.2.3
+
+# LangChain + Azure OpenAI
+langchain-core==1.6.1
+langchain-openai==1.6.0
+langchain-chroma==1.1.0
+langchain-text-splitters==1.1.2
+openai==3.6.0
+
+# Vector database
+chromadb==1.5.9
+
+# MongoDB (authentication)
+pymongo==4.17.0
+
+# Password hashing
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+
+# Session cookie signing
+itsdangerous==2.2.0
